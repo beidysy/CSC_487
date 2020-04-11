@@ -1,0 +1,15 @@
+{
+  "name": "CSC 487 final project  copy 2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:beidysy/CSC_487.git",
+  "author": "Beidy <beydisy@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2"
+  },
+  "dependencies": {
+    "gulp-sass": "^4.0.2"
+  }
+}
